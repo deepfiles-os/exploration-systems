@@ -1,3 +1,8 @@
+# Virtual Environment
 .venv/
 venv/
 ENV/
+
+# Generated text files
+*.txt
+!requirements.txt
