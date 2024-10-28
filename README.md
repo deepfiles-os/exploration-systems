@@ -62,6 +62,7 @@ explorer.run_exploration(turns=100)
 
 # Save results
 explorer.save_exploration()
+```
 
 ## Output Files
 
